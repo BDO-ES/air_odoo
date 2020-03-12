@@ -2,3 +2,8 @@
 	path = OCA/l10n-spain
 	url = git@github.com:OCA/l10n-spain.git
 	branch = 12.0
+
+[submodule "Olageibol/odoo_addons"]
+	path = Olageibol/odoo_addons
+	url = git@github.com:Olageibol/odoo_addons.git
+	branch = 12.0
