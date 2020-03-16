@@ -7,3 +7,8 @@
 	path = Olageibol/odoo_addons
 	url = git@github.com:Olageibol/odoo_addons.git
 	branch = 12.0
+
+[submodule "OCA/sale-workflow"]
+	path = OCA/sale-workflow
+	url = git@github.com:OCA/sale-workflow.git
+	branch = 11.0
