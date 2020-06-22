@@ -28,16 +28,10 @@
 	url = git@github.com:OCA/reporting-engine.git
 	branch = 12.0
 
-[submodule "BDO-ES/odoo_addons"]
-	path = BDO-ES/odoo_addons
-	url = git@github.com:BDO-ES/odoo_addons.git
-	branch = 12.0
-
 [submodule "OCA/stock-logistics-workflow"]
 	path = OCA/stock-logistics-workflow
 	url = git@github.com:OCA/stock-logistics-workflow.git
 	branch = 12.0
-
 
 [submodule "OCA/sale-workflow"]
 	path = OCA/sale-workflow
