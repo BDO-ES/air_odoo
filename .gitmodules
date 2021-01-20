@@ -106,4 +106,4 @@
 [submodule "BDO-ES/air_addons"]
 	path = BDO-ES/air_addons
 	url = git@github.com:BDO-ES/air_addons.git
-	branch = 12.0
+	branch = 12.0-fase2
