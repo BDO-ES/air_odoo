@@ -108,7 +108,7 @@
 	url = git@github.com:OCA/stock-logistics-warehouse.git
 	branch = 12.0
 
-[submodule "BDO-ES/l10n-spain"]
-	path = BDO-ES/l10n-spain
-	url = git@github.com:BDO-ES/l10n-spain.git
-	branch = 12.0-air
+[submodule "OCA/l10n-spain"]
+	path = OCA/l10n-spain
+	url = git@github.com:OCA/l10n-spain.git
+	branch = 12.0
