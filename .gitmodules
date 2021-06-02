@@ -107,3 +107,8 @@
 	path = BDO-ES/air_addons
 	url = git@github.com:BDO-ES/air_addons.git
 	branch = 12.0
+
+[submodule "muk-it/muk_dms"]
+	path = muk-it/muk_dms
+	url = git@github.com:muk-it/muk_dms.git
+	branch = 12.0
